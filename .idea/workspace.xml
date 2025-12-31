@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2be1e51f-7846-4982-989d-3f4b26baef5b" name="更改" comment="" />
+    <list default="true" id="2be1e51f-7846-4982-989d-3f4b26baef5b" name="更改" comment="init" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,8 +41,16 @@
       <option name="presentableId" value="Default" />
       <updated>1767076295573</updated>
       <workItem from="1767076296783" duration="1539000" />
-      <workItem from="1767170219844" duration="55000" />
+      <workItem from="1767170219844" duration="368000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1767170319080</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1767170319080</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -63,5 +71,7 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
 </project>
